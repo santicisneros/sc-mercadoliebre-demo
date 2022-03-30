@@ -1,0 +1,227 @@
+body {
+    font-family: "Roboto";
+}
+
+p {
+    text: size 12px;
+}
+
+.bg-main {
+    background-color: #eac926;
+}
+
+.bg-blue {
+    background-color: #03264c;
+}
+
+.bg-light-blue {
+    background-color: #1259c3;
+}
+
+.bg-light-gray {
+    background-color: #ebebeb;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-green {
+    background-color: #39b54a;
+}
+
+.text-green {
+    color: #39b54a;
+}
+
+.burger-menu {
+    width: 40px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    font-size: 24px;
+    border-radius: 5px;
+    background-color: #1259c3;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    margin-top: 8px;
+}
+
+.text-dark-gray {
+    color: #666;
+}
+
+.text-light-gray {
+    color: #ebebeb;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.padding-8 {
+    padding: 8px;
+}
+
+.padding-30 {
+    padding: 30px;
+}
+
+.input-box {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.login-input-box {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.nav-bar {
+    width: 50%;
+    padding-left: 6px;
+    position: relative;
+}
+
+.input {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.serch-icon {
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: white;
+}
+
+.logo {
+    width: 50%;
+    padding-right: 20px;
+}
+
+.contenedor-logo-serch {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.copy-header {
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.footer-description {
+    margin: 50px 38px;
+}
+
+.copyrhit-description {
+    font-weight: 200;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+.main-nav {
+    display: none;
+}
+
+.footer-icon {
+    color: #1259c3;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.serch-icon {
+    color: #1259c3;
+    background-color: white;
+}
+
+.margin-y-16 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.main-font {
+    padding: 20px 15px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.control-formulario {
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+.lista-intereses {
+    margin: 15px;
+}
+
+.control-formulario label {
+    margin-bottom: 15px;
+    font-style: italic;
+    display: block;
+}
+
+.radio-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.checkbox-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.checkbox-input {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.button-gray {
+    color: white;
+    background-color: #666;
+    border-radius: 5px;
+    width: 100%;
+    display: block;
+}
+
+.button-primary {
+    background-color: #1259c3;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+    display: block;
+}
+
+.button-login:hover {
+    background-color: #0022AA;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
